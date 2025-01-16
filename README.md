@@ -27,7 +27,7 @@ Through the above pipeline, the agent can:
 
 Performance
 --------------------
-<h3>Missing Features</h3>
+<h3>Additional Functionality</h3>
 
 Currently, the pizza center doesn't have any real locations. This could be changed in the future, where there would exist a list of locations. In this case, we would also implement a way to retrieve the user's location. From here, we can add a function to our function context, maybe using an API call to help the LLM find the store location that is closest to the user.
 
