@@ -1,0 +1,11 @@
+langchain==0.3.14
+langchain_community==0.3.14
+langchain_openai==0.3.0
+livekit==0.19.1
+livekit_agents==0.12.8
+livekit_api==0.8.1
+livekit_plugins_deepgram==0.6.16
+livekit_plugins_openai==0.10.15
+livekit_plugins_silero==0.7.4
+livekit_protocol==0.8.0
+python-dotenv==1.0.1

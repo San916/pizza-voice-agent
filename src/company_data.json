@@ -1,0 +1,27 @@
+{
+  "Location and Contact": {
+    "address": "47 Baker Street, Somerville, MA 02137",
+    "phone": "+1 617 498 2342",
+    "email": "orders@zazzoupizza.com",
+    "hours": "Mon-Sun 11:00 AM - 11:00 PM"
+  },
+  "Menu": [
+    {"name": "Margherita", "price": "$14.99", "ingredients": "Fresh tomato sauce, mozzarella, basil", "vegetarian": true, "classic_pizza": true, "signature_pizza": false},
+    {"name": "Pepperoni Passion", "price": "$16.99", "ingredients": "Tomato sauce, mozzarella, double pepperoni", "vegetarian": false, "classic_pizza": true, "signature_pizza": false},
+    {"name": "Veggie Supreme", "price": "$17.99", "ingredients": "Tomato sauce, mozzarella, mushrooms, onions, bell peppers, olives", "vegetarian": true, "classic_pizza": true, "signature_pizza": false},
+    {"name": "KnoOrdinary Special", "price": "$19.99", "ingredients": "Tomato sauce, mozzarella, pepperoni, Italian sausage, mushrooms, onions, bell peppers", "vegetarian": false, "classic_pizza": false, "signature_pizza": true},
+    {"name": "Mediterranean Delight", "price": "$19.99", "ingredients": "Olive oil base, feta cheese, sun-dried tomatoes, olives, spinach, red onions", "vegetarian": true, "classic_pizza": false, "signature_pizza": true},
+    {"name": "Barbeque Chicken Feast", "price": "$19.99", "ingredients": "BBQ sauce, mozzarella, grilled chicken, red onions, sweetcorn", "vegetarian": false, "classic_pizza": false, "signature_pizza": true}
+  ],
+  "Delivery Information": {
+    "free_delivery_radius": "3 miles",
+    "delivery_charge_radius": "3-5 miles",
+    "minimum_order": "$30.00",
+    "delivery_time": "30-45 minutes"
+  },
+  "Special Offers": [
+    {"offer": "Monday Madness", "discount": "50% off on all classic pizzas"},
+    {"offer": "Student Discount", "discount": "10% off with valid student ID"},
+    {"offer": "Family Deal", "discount": "2 large pizzas + 2 sides for $35"}
+  ]
+}
